@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">P08 - GoogleMaps</string>
+    <string name="abc">ABC Ptd Ltd</string>
+    <string name="branches">We have 3 branches. Look below for the address and info.</string>
+    <string name="north">NORTH</string>
+    <string name="central">CENTRAL</string>
+    <string name="east">EAST</string>
+    <string-array name="spnLocation">
+        <item>East</item>
+        <item>Central</item>
+        <item>North</item>
+    </string-array>
+</resources>
